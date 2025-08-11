@@ -12,6 +12,6 @@ A wave simulation!
 Aaaaaaaaaaaaaaah
 [QBase](https://falingunit.github.io/qbase/)
 
-##S.V. Clinic Palladam Website.
+## S.V. Clinic Palladam Website.
 A simple website for
 [S.V. Clinic Palladam](https://www.svclinicpalladam.com/)
